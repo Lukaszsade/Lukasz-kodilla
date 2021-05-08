@@ -1,0 +1,10 @@
+body {
+    margin-top: 60px;
+    text-align: left;
+    padding: 50px 50px;
+}
+
+h1 { 
+    color: red;
+    font-style: italic;
+}
