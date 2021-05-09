@@ -1,6 +1,2 @@
 
-<<<<<<< HEAD
 html-validate *.html
-=======
-html-validate html..
->>>>>>> ba38b44ded3cfc2c1407ff886b7fa4464477f9cf
